@@ -59,11 +59,6 @@ I'm a Computer Science student focused on **Machine Learning, Computer Vision, b
 
 <a href="https://leetcode.com/u/HarshvardhanPandhare/"><img src="assets/leetcode-progress.svg" alt="LeetCode progress: 121 of 4101 solved; 55 easy, 50 medium, 16 hard" width="850" /></a>
 
-### Achievements
-
-<a href="https://leetcode.com/u/HarshvardhanPandhare/"><img src="assets/leetcode-achievements.svg" alt="2 earned LeetCode badges; most recent September LeetCoding Challenge" width="850" /></a>
-
-[View my LeetCode profile](https://leetcode.com/u/HarshvardhanPandhare/)
 
 </div>
 
