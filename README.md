@@ -49,18 +49,7 @@ I'm a Computer Science student focused on **Machine Learning, Computer Vision, b
 
 ---
 
-## Featured Projects
 
-| Project | What it does | Tech |
-|---|---|---|
-| [Spam Detection using Machine Learning](https://github.com/HarshuPandhare/SpamDetection_Using_MachineLearning) | Machine-learning based spam classification project. | Python, ML |
-| [Agentic AI](https://github.com/HarshuPandhare/Agentic-AI) | Experiments and development around agent-based AI workflows. | Python, AI |
-| [YOLOv8 OpenCV Computer Vision System](https://github.com/HarshuPandhare/yolov8-opencv-computer-vision-system) | Computer-vision system built with YOLOv8 and OpenCV. | Python, YOLOv8, OpenCV |
-| [Computer Vision Security System](https://github.com/HarshuPandhare/Computer-Vision-Security-System) | Computer-vision focused security project. | Python, Computer Vision |
-| [SECURECAM](https://github.com/HarshuPandhare/SECURECAM) | Security-oriented project with a web interface. | HTML |
-| [MahaFPO Registration](https://github.com/HarshuPandhare/MahaFPO-registration) | Registration-focused web application. | TypeScript |
-
----
 
 ---
 
@@ -89,6 +78,18 @@ I'm a Computer Science student focused on **Machine Learning, Computer Vision, b
 - Agentic AI and retrieval-augmented generation (RAG)
 - Backend architecture, APIs, and databases
 - Android development with Kotlin
+
+---
+## Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [Spam Detection using Machine Learning](https://github.com/HarshuPandhare/SpamDetection_Using_MachineLearning) | Machine-learning based spam classification project. | Python, ML |
+| [Agentic AI](https://github.com/HarshuPandhare/Agentic-AI) | Experiments and development around agent-based AI workflows. | Python, AI |
+| [YOLOv8 OpenCV Computer Vision System](https://github.com/HarshuPandhare/yolov8-opencv-computer-vision-system) | Computer-vision system built with YOLOv8 and OpenCV. | Python, YOLOv8, OpenCV |
+| [Computer Vision Security System](https://github.com/HarshuPandhare/Computer-Vision-Security-System) | Computer-vision focused security project. | Python, Computer Vision |
+| [SECURECAM](https://github.com/HarshuPandhare/SECURECAM) | Security-oriented project with a web interface. | HTML |
+| [MahaFPO Registration](https://github.com/HarshuPandhare/MahaFPO-registration) | Registration-focused web application. | TypeScript |
 
 ---
 
