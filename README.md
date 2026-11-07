@@ -54,7 +54,19 @@ GitHub Activity
   </a>
 </p><p align="center">
   <i>Explore my repositories to see what I'm building and learning.</i>
-</p>Currently Exploring
+</p>LeetCode
+<div align="center"><a href="https://leetcode.com/u/HarshvardhanPandhare/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode profile"/>
+</a>
+
+
+</div>Badges & Achievements
+- 2 badges earned on LeetCode.
+- Most recent badge: September LeetCoding Challenge.
+- Profile: HarshvardhanPandhare
+LeetCode cards update from your public profile through the LeetCard service. Badge details above reflect the profile screenshot captured on November 7, 2026.
+
+Currently Exploring
 - Applied Machine Learning and model evaluation
 - Computer Vision and real-time detection
 - Agentic AI and retrieval-augmented generation (RAG)
