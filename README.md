@@ -44,13 +44,17 @@ MahaFPO Registration	Registration-focused web application.	TypeScript
 
 Project descriptions are concise summaries based on the repository names and visible profile information. Update them to match each repository's actual features.
 
-GitHub Statistics
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshuPandhare&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshuPandhare&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages"/>
-</div><div align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshuPandhare&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-</div>Currently Exploring
+GitHub Activity
+<p align="center">
+  <a href="https://github.com/HarshuPandhare?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
+  </a>
+  <a href="https://github.com/HarshuPandhare?tab=stars">
+    <img src="https://img.shields.io/badge/View-My%20Stars-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View my stars"/>
+  </a>
+</p><p align="center">
+  <i>Explore my repositories to see what I'm building and learning.</i>
+</p>Currently Exploring
 - Applied Machine Learning and model evaluation
 - Computer Vision and real-time detection
 - Agentic AI and retrieval-augmented generation (RAG)
